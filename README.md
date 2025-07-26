@@ -1,3 +1,23 @@
+Janadrishti – Civic-Tech Platform
+
+Empowering Citizens. Enabling Transparency. Strengthening Democracy.
+
+Janadrishti is a civic-tech platform built to enhance democratic accountability by empowering Indian citizens with transparent, accessible, and data-driven insights into the work of their elected representatives—across local, state, and national levels.
+
+Rooted in India’s cultural and linguistic heritage, the name Janadrishti (जनदृष्टि) translates to “The People’s Vision.” Our mission is to strengthen democratic participation by equipping citizens with the tools to observe, evaluate, and engage with governance meaningfully.
+
+Through Janadrishti, users can:
+
+Explore verified profiles of MPs, MLAs, and local leaders
+
+Track political promises versus actions over time
+
+Share perspectives and engage in civic discourse
+
+Access simplified visualizations of legislative activity
+
+At its core, Janadrishti is designed to promote informed citizenship and uphold democratic values by making public data actionable and inclusive.
+
 # React
 
 A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
