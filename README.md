@@ -98,8 +98,7 @@ Build the application for production:
 npm run build
 ```
 
-## 🙏 Acknowledgments
-
+https://drive.google.com/drive/shared-with-me
 - Built with [Rocket.new](https://rocket.new)
 - Powered by React and Vite
 - Styled with Tailwind CSS
